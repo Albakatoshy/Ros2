@@ -1,0 +1,1 @@
+/home/abood/arduinobot_ws/build/arduinobot_msgs/ament_cmake_environment_hooks/pythonpath.sh

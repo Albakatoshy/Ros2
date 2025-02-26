@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/abood/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages",
+        "/home/abood/ros_ws/install/robot_description/lib/python3.10/site-packages",
+        "/home/abood/ros_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

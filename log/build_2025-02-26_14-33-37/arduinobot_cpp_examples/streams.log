@@ -1,0 +1,44 @@
+[0.013s] Invoking command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake /home/abood/arduinobot_ws/src/arduinobot_cpp_examples -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/abood/arduinobot_ws/install/arduinobot_cpp_examples
+[0.047s] -- The C compiler identification is GNU 11.4.0
+[0.084s] -- The CXX compiler identification is GNU 11.4.0
+[0.089s] -- Detecting C compiler ABI info
+[0.133s] -- Detecting C compiler ABI info - done
+[0.138s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.138s] -- Detecting C compile features
+[0.138s] -- Detecting C compile features - done
+[0.140s] -- Detecting CXX compiler ABI info
+[0.192s] -- Detecting CXX compiler ABI info - done
+[0.199s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.199s] -- Detecting CXX compile features
+[0.199s] -- Detecting CXX compile features - done
+[0.201s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.337s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.403s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.427s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.501s] -- Added test 'lint_cmake' to check CMake code style
+[0.503s] -- Added test 'xmllint' to check XML markup files
+[0.503s] -- Configuring done
+[0.505s] -- Generating done
+[0.505s] -- Build files have been written to: /home/abood/arduinobot_ws/build/arduinobot_cpp_examples
+[0.508s] Invoked command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake /home/abood/arduinobot_ws/src/arduinobot_cpp_examples -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/abood/arduinobot_ws/install/arduinobot_cpp_examples
+[0.510s] Invoking command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake --build /home/abood/arduinobot_ws/build/arduinobot_cpp_examples -- -j16 -l16
+[0.542s] Invoked command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake --build /home/abood/arduinobot_ws/build/arduinobot_cpp_examples -- -j16 -l16
+[0.559s] Invoking command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake --install /home/abood/arduinobot_ws/build/arduinobot_cpp_examples
+[0.565s] -- Install configuration: ""
+[0.565s] -- Execute custom install script
+[0.565s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_examples
+[0.572s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_examples
+[0.580s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.sh
+[0.587s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.dsv
+[0.593s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.sh
+[0.600s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.dsv
+[0.607s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.bash
+[0.615s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.sh
+[0.621s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.zsh
+[0.629s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.dsv
+[0.636s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.dsv
+[0.644s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/packages/arduinobot_cpp_examples
+[0.651s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig.cmake
+[0.658s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig-version.cmake
+[0.665s] -- Symlinking: /home/abood/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.xml
+[0.674s] Invoked command in '/home/abood/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abood/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble:/opt/ros/humble/lib/gazebo_ros:/home/abood/ros_ws/install/robot_description:/home/abood/ros_ws/install/my_package /usr/bin/cmake --install /home/abood/arduinobot_ws/build/arduinobot_cpp_examples
